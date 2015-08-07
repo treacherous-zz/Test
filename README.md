@@ -6,5 +6,4 @@ Treacherous as the C
 
 ```swift
 import UIKit
-print("hello world")
 ```
